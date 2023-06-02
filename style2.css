@@ -14,10 +14,12 @@
 
     width: 25px;
     height: 25px;
-    background-color: red;
+    background-image: url('./images/rocket-icon.png') ;
+    background-position: center;
+    background-size: contain;
 }
 
-.button:hover,
+/* .button:hover,
 .button:focus{
 
-}
+} */
