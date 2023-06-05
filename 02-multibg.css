@@ -1,4 +1,4 @@
-/* .overlay{
+.overlay{
     outline: 1px solid black;
 
     max-width: 1200px;
@@ -15,4 +15,4 @@
 
         background-size: cover;
         background-position: center;
-} */
+}

@@ -1,0 +1,25 @@
+.text{
+    width: 300px;
+}
+
+.text::selection{
+    background-color: aqua;                                                                                                                                                                                                                                                                                                                                                                                                 
+    color: blue;
+}
+
+.text::first-letter{
+    font-size: 48px;
+    color: yellowgreen;
+}
+
+.text::first-line{
+    background-color: aquamarine;
+}
+
+body{
+    font-size: 36px;
+}
+
+h1{
+    font-size: 2em;
+}
