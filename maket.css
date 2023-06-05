@@ -1,0 +1,85 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    margin: 0px;
+    padding: 0px;
+}
+
+ul{
+    list-style: none;
+}
+
+.section{
+    padding-bottom: 162px;
+    padding-top: 80px;
+    background-image: url(./Rectangle\ 48.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container{
+    width: 1100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero{
+    text-align: center;
+}
+
+.btn-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-1{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+
+    letter-spacing: 0.1px;
+
+    color: #F7F7F7;
+}
+
+.title{
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 80px;
+    width: 650px;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+
+    letter-spacing: 0.2px;
+
+    color: #FFFFFF;
+}
+
+.text-2{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 38px;
+    margin-bottom: 54px;
+
+    letter-spacing: 0.2px;
+
+    color: #F7F7F7;
+}
+
+.button-1{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.button-2{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    opacity: 0.5;
+}
